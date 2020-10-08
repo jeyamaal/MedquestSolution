@@ -1,0 +1,7 @@
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\MosaicDependency.dll.config
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\MosaicDependency.dll
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\MosaicDependency.pdb
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.MosaicDependency\obj\Debug\StorageSystem.MosaicDependency.csprojAssemblyReference.cache
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.MosaicDependency\obj\Debug\StorageSystem.MosaicDependency.csproj.CopyComplete
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.MosaicDependency\obj\Debug\MosaicDependency.dll
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.MosaicDependency\obj\Debug\MosaicDependency.pdb

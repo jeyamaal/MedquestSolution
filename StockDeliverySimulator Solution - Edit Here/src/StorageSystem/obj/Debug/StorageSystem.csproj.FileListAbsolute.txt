@@ -1,0 +1,6 @@
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\StorageSystem.dll
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\StorageSystem.pdb
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem\obj\Debug\StorageSystem.csprojAssemblyReference.cache
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem\obj\Debug\StorageSystem.csproj.CopyComplete
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem\obj\Debug\StorageSystem.dll
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem\obj\Debug\StorageSystem.pdb

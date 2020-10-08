@@ -1,0 +1,5 @@
+﻿Delivery,ArticleID,Name,Dosage,Packaging,Fridge,MaxSubItems,Batch,ExternalId,ExpiryDate,PackCount,StockLocation,MachineLocation
+abc,abc,123,abc,1,Y,1,abc,def,12/12/2022,1,abc,def
+blah,abc,drug 2,tablet,1,Y,2,abc,def,12/10/2020,2,def,sda
+blah blah,def,drug 3,box,1,Y,3,abc,def,31/3/2030,3,gha,asd
+abc-def,zzz,drug-4,paper,donut,N,2,zsdas,fdss,1/1/2022,4,asdas,asasda

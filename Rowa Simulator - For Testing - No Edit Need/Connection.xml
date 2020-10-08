@@ -1,0 +1,2 @@
+Port;6050;Category;StorageSystem;MaxConcurrentConnections;10;
+SubscriberID;999;Type;Robot;EnableMessageEcho;False;SmallMessageSet;False;EnableKeepAlive;False;KeepAliveInterval;10;EnableMessageTrace;True;KeepAliveTimeOut;10;HandshakeTimeout;5;UseExternalIdAsSerialNumber;False;

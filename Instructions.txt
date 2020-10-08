@@ -1,0 +1,49 @@
+Information:
+1) There is a Rowa Simulator Folder. No need to edit the folder. It is used as a listener to connect with the StockDeliverySimulator.
+
+2) Within the StockDeliverySimulator, you need to edit the solution.
+
+3) Edit the solution to be like what it is expected in the output video.
+
+Requirements:
+- Basically, there are 3 requirements
+
+#1: Remove all features that is not needed. Only one tab remains: that is the Stock Deliveries tab. Notice that all other tabs are gone.
+
+#2: For the Stock Deliveries tab, create a button that can load an csv file of stock deliveries with the columns as indicated in the sample input folder.
+
+I.e. It should load the csv file and populate in the stockdeliverysimulator
+
+#3 Upon loading the simulator, when "Send" button is pressed at the bottom right corner, it will be able to fire a stock delivery message (after connecting to the listener rowa simulator) as shown in the video.
+
+- The successful message will be shown as seen in the log of the video.
+
+Example Success Message Sent:
+<WWKS Version="2.0" TimeStamp="2020-10-05T08:36:05Z">
+  <StockDeliverySetRequest Id="3" Source="100" Destination="999">
+    <StockDelivery DeliveryNumber="abc">
+      <Article Id="abc" Name="123" DosageForm="abc" PackagingUnit="1" BatchNumber="abc" ExternalId="def" ExpiryDate="2022-12-12" RequiresFridge="False" Quantity="1" MaxSubItemQuantity="1" StockLocationId="abc" MachineLocation="def" />
+    </StockDelivery>
+    <StockDelivery DeliveryNumber="blah">
+      <Article Id="abc" Name="drug 2" DosageForm="tablet" PackagingUnit="1" BatchNumber="abc" ExternalId="def" ExpiryDate="2020-10-12" RequiresFridge="False" Quantity="2" MaxSubItemQuantity="2" StockLocationId="def" MachineLocation="sda" />
+    </StockDelivery>
+    <StockDelivery DeliveryNumber="blah blah">
+      <Article Id="def" Name="drug 3" DosageForm="box" PackagingUnit="1" BatchNumber="abc" ExternalId="def" ExpiryDate="2030-03-31" RequiresFridge="False" Quantity="3" MaxSubItemQuantity="3" StockLocationId="gha" MachineLocation="asd" />
+    </StockDelivery>
+    <StockDelivery DeliveryNumber="abc-def">
+      <Article Id="zzz" Name="drug-4" DosageForm="paper" PackagingUnit="donut" BatchNumber="zsdas" ExternalId="fdss" ExpiryDate="2022-01-01" RequiresFridge="False" Quantity="4" MaxSubItemQuantity="2" StockLocationId="asdas" MachineLocation="asasda" />
+    </StockDelivery>
+  </StockDeliverySetRequest>
+</WWKS>
+
+---
+
+Completion Submission:
+
+- Please upload the completed solution package by BOTH 
+(1) Uploading to a github repository and sharing the link 
+(2) Zipping the solution and sending the zip file over via wetransfer.
+
+Let us know the links for the github and the wetransfer download.
+
+We will assess the solution after receiving it.

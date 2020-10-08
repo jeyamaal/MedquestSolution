@@ -1,0 +1,12 @@
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\StorageSystemSimulator.exe.config
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\StorageSystemSimulator.exe
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\StorageSystemSimulator.pdb
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.Simulator\obj\Debug\StorageSystem.Simulator.csprojAssemblyReference.cache
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.Simulator\obj\Debug\StorageSystemSimulator.AddStatusComponent.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.Simulator\obj\Debug\StorageSystemSimulator.FormMain.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.Simulator\obj\Debug\StorageSystemSimulator.FormSelectPackShape.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.Simulator\obj\Debug\StorageSystemSimulator.Properties.Resources.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.Simulator\obj\Debug\StorageSystem.Simulator.csproj.GenerateResource.cache
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.Simulator\obj\Debug\StorageSystem.Simulator.csproj.CopyComplete
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.Simulator\obj\Debug\StorageSystemSimulator.exe
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\StorageSystem.Simulator\obj\Debug\StorageSystemSimulator.pdb

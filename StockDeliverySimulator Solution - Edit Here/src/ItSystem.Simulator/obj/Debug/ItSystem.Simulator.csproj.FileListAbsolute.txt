@@ -1,0 +1,16 @@
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\ItSystem.Simulator.csprojAssemblyReference.cache
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\CareFusion.ITSystemSimulator.FAddPriceInformation.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\CareFusion.ITSystemSimulator.FAddShoppingCartItem.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\CareFusion.ITSystemSimulator.FArticleId.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\CareFusion.ITSystemSimulator.FBulkOrder.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\CareFusion.ITSystemSimulator.FMain.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\CareFusion.ITSystemSimulator.FOrder.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\CareFusion.ITSystemSimulator.FOrderItem.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\CareFusion.ITSystemSimulator.Properties.Resources.resources
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\ItSystem.Simulator.csproj.GenerateResource.cache
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\ItSystem.Simulator.exe.config
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\ItSystem.Simulator.exe
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\bin\AnyCPU\Debug\ItSystem.Simulator.pdb
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\ItSystem.Simulator.csproj.CopyComplete
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\ItSystem.Simulator.exe
+C:\Users\jeyamaalmarukan_selv\Downloads\Jeyamaal_PC\Med\Assignment\StockDeliverySimulator Solution - Edit Here\src\ItSystem.Simulator\obj\Debug\ItSystem.Simulator.pdb
